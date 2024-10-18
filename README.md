@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-About me:
-
 -     My name is Ben
 -     I am an accomplished, adaptable, and bilingual communicator with a diverse career background from the private sector, the not-for-profit organization, the Canadian 
       government relate to technology.
