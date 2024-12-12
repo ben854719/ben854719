@@ -8,5 +8,5 @@
       Processing Specialist (Codecademy).
 -     I am a member of Toastmaster International since 2019.
 -     Please follow me on my social network platform (Linkedin and Bluesky). I will show you the steps to create your own portfolio in AI and software development.
--     My computer skills are python, JavaScript, C++, LLM, GENAI, Deep Learning, and NLP.
+-     My computer skills are Python, SQL, JavaScript, C++, AI, LLM, GENAI, Tensorflow, Keras, PyTorch.
 -     Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
