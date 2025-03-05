@@ -7,6 +7,5 @@
 -     I have taken initiave to acquire new knowledge from my online courses in order to broaden my career in Cybersecurity (Coursera) and Data Scientist: Natural Language
       Processing Specialist (Codecademy).
 -     I am a member of Toastmaster International since 2019.
--     Please follow me on my social network platform (Linkedin, Bluesky, and Threads). I will show you the steps to create your own portfolio in AI and software development.
 -     My computer skills are Python, SQL, JavaScript, C++, AI, LLM, GENAI, Tensorflow, Keras, PyTorch.
 -     Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
