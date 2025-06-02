@@ -7,7 +7,7 @@
       new knowledge from my online courses in order to broaden my career in Cybersecurity (Coursera) and Data Scientist: Natural Language Processing Specialist (Codecademy).
   
 -     I am a member of Toastmaster International since 2019. I have honed my public speaking and leadership skills through global engagement with clubs in Canada, the U.S., 
-      Switzerland, and Japan, strengthening my professional development.
+      Switzerland, and Japan, it help me to strengthening my career development.
   
 -     My computer skills are Python, SQL, JavaScript, C++, AI, LLM, GENAI, Tensorflow, Keras, PyTorch.
 - 
