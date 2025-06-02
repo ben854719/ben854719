@@ -1,6 +1,6 @@
-     Hello, 
+     Hello Everybody
       
-      My name is Ben.
+-     My name is Ben. I am working as a data science (freelance).
       
 -     I am an accomplished, adaptable, and bilingual communicator with a diverse career background from the private sector, the not-for-profit organization, the Canadian 
       government relate to technology. I have a passion of learning new technologies from AI, software development, cloud, and cybersecurity.I have taken initiave to acquire 
