@@ -1,14 +1,20 @@
--     Hello Everybody,
-      
--     My name is Ben. I am working as a data science (freelance).
-      
--     I am an accomplished, adaptable, and good communicator with a diverse career background from the private sector, the not-for-profit organization, the Canadian 
-      government relate to technology. I have a passion of learning new technologies from AI, software development, cloud, and cybersecurity.I have taken initiave to acquire 
-      new knowledge from my online courses in order to broaden my career in Cybersecurity (Coursera) and Data Scientist: Natural Language Processing Specialist (Codecademy).
-  
--     I am a member of Toastmaster International since 2019. I have honed my public speaking and leadership skills through global engagement with clubs in Canada, the U.S., 
-      Switzerland, and Japan, it help me to strengthening my career development.
-  
--     My computer skills are Python, SQL, JavaScript, C++, AI, LLM, GENAI, Tensorflow, Keras, PyTorch.
-- 
--     Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
+ ## Hi,
+
+I'm Ben, a freelance data scientist with a diverse background spanning the private sector, non-profit organizations, and the Canadian government. My expertise lies in AI, software development, and cybersecurity, and I have a deep passion for exploring new technologies.
+
+- ## Continuous Learning:  
+I believe in lifelong learning and have actively pursued knowledge in Cybersecurity (Coursera) and Natural Language Processing (Codecademy) to expand my skill set. My curiosity drives me to stay up-to-date with advancements in LLMs, GenAI, and deep learning frameworks like TensorFlow, Keras, and PyTorch.
+
+## Technical Expertise:
+I have hands-on experience with various programming languages and technologies:
+- Languages: Python, SQL, JavaScript, C++
+- AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch
+
+I thrive on solving complex problems, collaborating on innovative projects, and pushing the boundaries of technology.
+
+## Hackathon:
+Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
+
+ ## Let's Connect!
+I'm always open to discussing new opportunities, collaborations, or just chatting about the latest advancements in tech.
+
