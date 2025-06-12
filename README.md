@@ -2,7 +2,7 @@
 
 I'm Ben, a freelance data scientist with a diverse background spanning the private sector, non-profit organizations, and the Canadian government. My expertise lies in AI, software development, and cybersecurity, and I have a deep passion for exploring new technologies.
 
-- ## Continuous Learning:  
+## Continuous Learning:  
 I believe in lifelong learning and have actively pursued knowledge in Cybersecurity (Coursera) and Natural Language Processing (Codecademy) to expand my skill set. My curiosity drives me to stay up-to-date with advancements in LLMs, GenAI, and deep learning frameworks like TensorFlow, Keras, and PyTorch.
 
 ## Technical Expertise:
