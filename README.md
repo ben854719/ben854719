@@ -10,7 +10,7 @@ I believe in lifelong learning and have actively pursued knowledge in Cybersecur
 ## Technical Expertise:
 I have hands-on experience with various programming languages and technologies:
 - Languages: Python, SQL, JavaScript, C++
-- AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch
+- AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI
 
 I thrive on solving complex problems, collaborating on innovative projects, and pushing the boundaries of technology.
 
