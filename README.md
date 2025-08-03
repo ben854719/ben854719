@@ -4,6 +4,10 @@ I'm Ben — a freelance data scientist at UpWork with experience in the private 
 
 As a member Toastmasters International since 2019, I am current member of McGill University Toastmaster Club. I have strengthened my public speaking and leadership skills through Toastmasters. I joined virtual meetings with different Toastmasters clubs in Ottawa, Montreal, Quebec, Washington D.C., Geneva, and Japan, enhancing my ability to communicate across cultures.
 
+## Portfolio:
+
+https://ben854719.github.io/
+
 ## Continuous Learning:  
 I believe in lifelong learning and have actively pursued knowledge in Cybersecurity (Coursera) and Data Scientist: Natural Language Processing (Codecademy) to expand my skill set. My curiosity drives me to stay up-to-date with advancements in LLMs, GenAI, and deep learning frameworks like TensorFlow, Keras, and PyTorch.
 
