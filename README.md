@@ -9,7 +9,7 @@ As a member Toastmasters International since 2019, I am current member of McGill
 https://ben854719.github.io/
 
 ## Continuous Learning:  
-I believe in lifelong learning and have actively pursued knowledge in Cybersecurity (Coursera) and Data Scientist: Natural Language Processing (Codecademy) to expand my skill set. My curiosity drives me to stay up-to-date with advancements in LLMs, GenAI, and deep learning frameworks like TensorFlow, Keras, and PyTorch.
+I believe in lifelong learning and have actively pursued knowledge in Cybersecurity (Coursera) and Data Scientist: Natural Language Processing (Codecademy) to expand my skill set. My curiosity drives me to stay up-to-date with advancements like Agentic AI, LLMs, GenAI, TensorFlow, Keras, and PyTorch.
 
 ## Technical Expertise:
 I have hands-on experience with various programming languages and technologies:
