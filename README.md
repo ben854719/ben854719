@@ -1,6 +1,6 @@
  ## Hi,
 
-I'm Ben — a freelance data scientist at UpWork with work experience in the private sector,  the non-profits organizations, and the Canadian government. I specialise in AI, software development, and cybersecurity, and am known for delivering data-driven solutions that impact business strategy.
+I'm Ben, a freelance data scientist on UpWork with a diverse work experience from the private sector, the not-for-profit organizations, and the Canadian government. I specialize in artificial intelligence, software development, and cybersecurity, delivering data-driven solutions that shape strategic decision-making. I am known for my adaptability and my results driven mindset, and I bring cross-industry expertise to every initiative—transforming complex challenges into impactful outcomes.
 
 As a member Toastmasters International since 2019, I am current member of McGill University Toastmaster Club. I have strengthened my public speaking and leadership skills through Toastmasters. I joined virtual meetings with different Toastmasters clubs in Ottawa, Montreal, Quebec, Washington D.C., Geneva, and Japan, enhancing my ability to communicate across cultures.
 
