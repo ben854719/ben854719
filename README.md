@@ -21,6 +21,8 @@ I thrive on solving complex problems, collaborating on innovative projects, and 
 ## Hackathon:
 Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
 
+Hackathon 2025 (AI Tinkeres Ottawa - Build to Convert)
+
  ## Let's Connect!
 I'm always open to discussing new opportunities, collaborations, or just chatting about the latest advancements in tech.
 
