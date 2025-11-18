@@ -28,7 +28,7 @@ Hackathon 2025 (AI Tinkeres Ottawa - Build to Convert)
 
 ## Follow me or not:
 
-If you decide follow me then I follow me. You unfollow me then don't connect with me. I will block you moving forward.
+If you decide follow me then I follow  you. You unfollow me then don't connect with me. I will block you moving forward.
 
 ## Let's Connect!
 
