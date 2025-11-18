@@ -8,10 +8,12 @@ As a member Toastmasters International since 2019, I am current member of McGill
 
 https://ben854719.github.io/
 
-## Continuous Learning:  
+## Continuous Learning: 
+
 I believe in lifelong learning and have actively pursued knowledge in Cybersecurity (Coursera) and Data Scientist: Natural Language Processing (Codecademy) to expand my skill set. My curiosity drives me to stay up-to-date with advancements such as Agentic AI, LLMs, GenAI, TensorFlow, Keras, and PyTorch.
 
 ## Technical Expertise:
+
 I have hands-on experience with various programming languages and technologies:
 - Languages: Python, Polars, SQL, JavaScript, C++, Node.js, TypeScript, Git, GitHub.
 - AI & Machine Learning: LLMs, GenAI, TensorFlow, Keras, PyTorch, Agentic AI
@@ -19,14 +21,16 @@ I have hands-on experience with various programming languages and technologies:
 I thrive on solving complex problems, collaborating on innovative projects, and pushing the boundaries of technology.
 
 ## Hackathon:
+
 Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
 
 Hackathon 2025 (AI Tinkeres Ottawa - Build to Convert)
 
 ## Follow me or not:
 
--  If you decided to follow me then I follow you. You decided not unfollow me later on. Please don't connect with me because I will block you moving forward.
-  
- ## Let's Connect!
+If you decided to follow me then I follow you. You decided not unfollow me later on. Please don't connect with me because I will block you moving forward.
+
+## Let's Connect!
+
 I'm always open to discussing new opportunities, collaborations, or just chatting about the latest advancements in tech.
 
