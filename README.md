@@ -23,6 +23,10 @@ Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/
 
 Hackathon 2025 (AI Tinkeres Ottawa - Build to Convert)
 
+## Follow me or not:
+
+-  If you decided to follow me then I follow you. You decided not unfollow me later on. Please don't connect with me because I will block you moving forward.
+  
  ## Let's Connect!
 I'm always open to discussing new opportunities, collaborations, or just chatting about the latest advancements in tech.
 
