@@ -20,6 +20,10 @@ I have hands-on experience with various programming languages and technologies:
 
 I thrive on solving complex problems, collaborating on innovative projects, and pushing the boundaries of technology.
 
+## AWS Cloud:
+
+- Introduction to Cloud 101 (Current Learning - AWS Educate)
+
 ## Hackathon:
 
 Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
