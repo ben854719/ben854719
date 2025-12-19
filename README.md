@@ -22,7 +22,7 @@ I thrive on solving complex problems, collaborating on innovative projects, and 
 
 ## AWS Cloud:
 
-- Introduction to Cloud 101 (Currently Learning - AWS Educate)
+- Introduction to Cloud 101: [Cloud 101](aws-educate-introduction-to-cloud-101-training-badg.png)
 
 ## Hackathon:
 
