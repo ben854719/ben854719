@@ -24,7 +24,7 @@ I thrive on solving complex problems, collaborating on innovative projects, and 
 
 - Introduction to Cloud 101: [Cloud 101](aws-educate-introduction-to-cloud-101-training-badg.png)
 - Introduction to Generative Artificial Intelligence: [Generative AI](aws-educate-introduction-to-generative-ai-training-.png)
-- Getting Started with Networking (Currently Learning)
+- Getting Started with Networking [Getting Started with Networking](aws-educate-getting-started-with-networking-trainin.png)
 
 ## Hackathon:
 
