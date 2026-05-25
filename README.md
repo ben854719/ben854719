@@ -20,6 +20,10 @@ I have hands-on experience with various programming languages and technologies:
 
 I thrive on solving complex problems, collaborating on innovative projects, and pushing the boundaries of technology.
 
+## Anthropic:
+
+- Introduction to agent skills: 
+
 ## AWS Cloud:
 
 - Introduction to Cloud 101: [Cloud 101](aws-educate-introduction-to-cloud-101-training-badg.png)
