@@ -22,7 +22,7 @@ I thrive on solving complex problems, collaborating on innovative projects, and 
 
 ## Anthropic:
 
-- Introduction to agent skills: [Introduction of to agent skills_Anthropic_May 2026.pdf]
+- Introduction to agent skills: [Agentic AI](Introduction of to agent skills_Anthropic_May 2026.pdf)
 
 ## AWS Cloud:
 
