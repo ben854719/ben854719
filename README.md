@@ -23,7 +23,7 @@ I thrive on solving complex problems, collaborating on innovative projects, and 
 ## Anthropic:
 
 - Introduction to agent skills: [Agentic  AI](https://github.com/ben854719/ben854719/blob/ac265a9f45233d92a25635292f9e713387e1586a/Introduction%20of%20to%20agent%20skills_Anthropic_May%202026.pdf)
-- Introduction to Model Control Protocol: [MCP](https://github.com/ben854719/ben854719/blob/38230c8e8ae0892784e6993926c670fa2252b9b0/MCP_2026.pdf)
+- Introduction to Model Context Protocol: [MCP](https://github.com/ben854719/ben854719/blob/38230c8e8ae0892784e6993926c670fa2252b9b0/MCP_2026.pdf)
 
 ## AWS Cloud:
 
