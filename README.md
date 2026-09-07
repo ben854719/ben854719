@@ -33,7 +33,7 @@ I thrive on solving complex problems, collaborating on innovative projects, and 
 
 ## Cybersecurity:
 
-- Google Cybersecurity Certification: [Cybersecurity] (google-cybersecurity-professional-certificate-v2 (1).png)
+- Google Cybersecurity Certification: [Cybersecurity](https://github.com/ben854719/ben854719/blob/1904e2b88117e0c0fe35b019f86066d318d483fc/google-cybersecurity-professional-certificate-v2%20(1).png)
   
 ## Hackathon:
 
