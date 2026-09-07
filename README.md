@@ -31,6 +31,10 @@ I thrive on solving complex problems, collaborating on innovative projects, and 
 - Introduction to Generative Artificial Intelligence: [Generative AI](aws-educate-introduction-to-generative-ai-training-.png)
 - Getting Started with Networking [Getting Started with Networking](aws-educate-getting-started-with-networking-trainin.png)
 
+## Cybersecurity:
+
+- Google Cybersecurity Certification: [Cybersecurity] (google-cybersecurity-professional-certificate-v2 (1).png)
+  
 ## Hackathon:
 
 Fun fact:--> [NASA Space Apps Challenge_Hackalthon_2024.pdf](https://github.com/user-attachments/files/17383260/NASA.Space.Apps.Challenge_Hackalthon_2024.pdf)
